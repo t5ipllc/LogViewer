@@ -1,5 +1,5 @@
 {
-    "name":        "t5ipllc/LogViewer",
+    "name":        "t5ipllc/log-viewer",
     "description": "Provides a Log Viewer for Laravel",
     "keywords":    ["t5ip", "laravel 12", "laravel", "log", "log viewer", "log-viewer", "logviewer"],
     "homepage":    "https://github.com/t5ipllc/LogViewer",
